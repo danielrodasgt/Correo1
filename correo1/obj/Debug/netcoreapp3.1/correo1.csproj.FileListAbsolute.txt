@@ -1,0 +1,12 @@
+C:\Users\rodasda\source\repos\correo1\bin\Debug\netcoreapp3.1\correo1.exe
+C:\Users\rodasda\source\repos\correo1\bin\Debug\netcoreapp3.1\correo1.deps.json
+C:\Users\rodasda\source\repos\correo1\bin\Debug\netcoreapp3.1\correo1.runtimeconfig.json
+C:\Users\rodasda\source\repos\correo1\bin\Debug\netcoreapp3.1\correo1.runtimeconfig.dev.json
+C:\Users\rodasda\source\repos\correo1\bin\Debug\netcoreapp3.1\correo1.dll
+C:\Users\rodasda\source\repos\correo1\bin\Debug\netcoreapp3.1\correo1.pdb
+C:\Users\rodasda\source\repos\correo1\obj\Debug\netcoreapp3.1\correo1.AssemblyInfoInputs.cache
+C:\Users\rodasda\source\repos\correo1\obj\Debug\netcoreapp3.1\correo1.AssemblyInfo.cs
+C:\Users\rodasda\source\repos\correo1\obj\Debug\netcoreapp3.1\correo1.csproj.CoreCompileInputs.cache
+C:\Users\rodasda\source\repos\correo1\obj\Debug\netcoreapp3.1\correo1.dll
+C:\Users\rodasda\source\repos\correo1\obj\Debug\netcoreapp3.1\correo1.pdb
+C:\Users\rodasda\source\repos\correo1\obj\Debug\netcoreapp3.1\correo1.genruntimeconfig.cache
